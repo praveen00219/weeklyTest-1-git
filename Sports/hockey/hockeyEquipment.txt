@@ -1,0 +1,11 @@
+Hockey Equipment List :
+-Stick
+-Skates
+-Helmet
+-Gloves
+-Shoulder pads
+-Game jersey
+-Hockey socks
+-Elbow pads
+
+
