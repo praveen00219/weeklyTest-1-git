@@ -67,17 +67,20 @@
 
 
 -Add a new folder names as hockey in your main folder (Sports)
-![9999 create-hockey-folder](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/74e3585c-c805-4230-9d59-f07361f21853)
-
 -Make a txt file and mention which equipment's are used in hockey
-![11111 create-hockeyEquipmentfile](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/4831c8af-2ca6-49fd-a4d0-7c4c61dd5651)
+![9999 create-hockey-folder](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/74e3585c-c805-4230-9d59-f07361f21853)
 
 
 -Also remove football folder
-![11111a mention equip](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/22c34ac6-7616-4db3-9079-64811a11b612)
+![11111 create-hockeyEquipmentfile](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/4831c8af-2ca6-49fd-a4d0-7c4c61dd5651)
+
 
 
 -Add all changes to staging area
+![11111a mention equip](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/22c34ac6-7616-4db3-9079-64811a11b612)
+
+
+
 ![11112](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/67b29fb6-877c-4f10-8795-ef1b760261c6)
 
 
@@ -85,10 +88,11 @@
 ![11113 add all](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/6f2027cc-c501-48b7-8625-9bc0fed41443)
 
 
--Push your code to a GitH
+-Push your code to a GitHub
 ![11115 push](https://github.com/praveen00219/weeklyTest-1-git/assets/156374521/b8239705-4326-4b73-b217-a60e05c379eb)
-ub
 
 
+### complete command in pdf formate
+[task-1.pdf](https://github.com/praveen00219/weeklyTest-1-git/files/15366543/task-1.pdf)
 
 
